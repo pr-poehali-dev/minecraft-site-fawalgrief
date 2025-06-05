@@ -57,7 +57,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4 font-montserrat">Контакты</h3>
             <div className="space-y-2 text-gray-400">
               <div>📧 admin@fawalgrief.ru</div>
-              <div>💬 Discord: FawalGrief#1234</div>
+              <div>💬 Discord: https://discord.gg/jud8GJYe</div>
               <div>📱 Telegram: @fawalgrief</div>
             </div>
           </div>
