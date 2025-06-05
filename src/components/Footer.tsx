@@ -58,7 +58,7 @@ const Footer = () => {
             <div className="space-y-2 text-gray-400">
               <div>📧 admin@fawalgrief.ru</div>
               <div>💬 Discord: https://discord.gg/jud8GJYe</div>
-              <div>📱 Telegram: @fawalgrief</div>
+              <div>📱 Telegram: @ownerFawaGrief</div>
             </div>
           </div>
         </div>
