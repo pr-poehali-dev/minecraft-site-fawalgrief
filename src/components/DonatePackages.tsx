@@ -14,6 +14,22 @@ const DonatePackages = () => {
         "Цветной ник в чате",
       ],
     },
+    {
+      name: "Tiger",
+      price: "79₽",
+      color: "from-orange-500 to-yellow-500",
+      icon: "🐅",
+      privileges: [
+        "Приватный чат Tiger",
+        "Кит Tiger каждые 8 часов",
+        "Команда /fly на 60 минут",
+        "Команда /heal каждые 3 минуты",
+        "Доступ к /warp tiger",
+        "Анимированный ник в чате",
+        "Команда /speed для быстрого бега",
+        "Доступ к эксклюзивным ресурсам",
+      ],
+    },
   ];
 
   return (
@@ -57,7 +73,7 @@ const DonatePackages = () => {
                 </ul>
 
                 <button className="w-full mt-6 bg-gradient-to-r from-green-500 to-green-600 text-white py-3 px-6 rounded-lg font-bold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105">
-                  💳 Купить Dragon
+                  💳 Купить {pkg.name}
                 </button>
               </div>
             </div>
