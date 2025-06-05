@@ -13,7 +13,7 @@ const Footer = () => {
             </p>
             <div className="space-y-2 text-sm">
               <div>
-                IP: <span className="text-green-400">fawalgrief.ru</span>
+                IP: <span className="text-green-400">fawalgrief.mclan.ru</span>
               </div>
               <div>
                 Версия: <span className="text-green-400">1.20.1</span>
