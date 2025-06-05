@@ -16,7 +16,7 @@ const Hero = () => {
               IP: fawalgrief.ru
             </div>
             <div className="bg-black bg-opacity-30 px-6 py-3 rounded-lg">
-              Версия: 1.20.1
+              Версия: 1.16.5
             </div>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
