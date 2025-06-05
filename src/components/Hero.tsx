@@ -13,7 +13,7 @@ const Hero = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
             <div className="bg-black bg-opacity-30 px-6 py-3 rounded-lg font-mono text-lg">
-              IP: fawalgrief.ru
+              IP: fawalgrief.mclan.ru
             </div>
             <div className="bg-black bg-opacity-30 px-6 py-3 rounded-lg">
               Версия: 1.16.5
