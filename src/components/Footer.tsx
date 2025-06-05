@@ -16,7 +16,7 @@ const Footer = () => {
                 IP: <span className="text-green-400">fawalgrief.mclan.ru</span>
               </div>
               <div>
-                Версия: <span className="text-green-400">1.20.1</span>
+                Версия: <span className="text-green-400">1.16.5</span>
               </div>
             </div>
           </div>
