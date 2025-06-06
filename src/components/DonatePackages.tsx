@@ -28,6 +28,13 @@ const DonatePackages = () => {
       icon: "🐂",
       privileges: [],
     },
+    {
+      name: "D.helper",
+      price: "499₽",
+      color: "from-purple-600 to-indigo-600",
+      icon: "🤖",
+      privileges: [],
+    },
   ];
 
   return (
