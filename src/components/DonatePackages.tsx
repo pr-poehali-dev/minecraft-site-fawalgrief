@@ -5,7 +5,7 @@ const DonatePackages = () => {
       price: "39₽",
       color: "from-red-500 to-orange-500",
       icon: "🐉",
-      privileges: ["Особый статус в игре", "Цветной ник в чате"],
+      privileges: [],
     },
     {
       name: "Tiger",
