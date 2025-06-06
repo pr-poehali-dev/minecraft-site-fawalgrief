@@ -35,6 +35,13 @@ const DonatePackages = () => {
       icon: "🤖",
       privileges: [],
     },
+    {
+      name: "Hydra",
+      price: "666₽",
+      color: "from-gray-800 to-black",
+      icon: "🐍",
+      privileges: [],
+    },
   ];
 
   return (
