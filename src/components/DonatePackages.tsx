@@ -15,13 +15,6 @@ const DonatePackages = () => {
       privileges: [],
     },
     {
-      name: "Bunny",
-      price: "19₽",
-      color: "from-pink-500 to-purple-500",
-      icon: "🐰",
-      privileges: [],
-    },
-    {
       name: "Rebbit",
       price: "149₽",
       color: "from-pink-500 to-purple-500",
