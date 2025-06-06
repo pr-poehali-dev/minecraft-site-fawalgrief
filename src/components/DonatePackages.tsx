@@ -1,3 +1,5 @@
+import React from "react";
+
 const DonatePackages = () => {
   const packages = [
     {
@@ -98,7 +100,6 @@ const DonatePackages = () => {
                   ))}
                 </ul>
 
-              <div className="p-6">
                 <button className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-3 px-6 rounded-lg font-bold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105">
                   💳 Купить {pkg.name}
                 </button>
