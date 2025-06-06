@@ -58,6 +58,13 @@ const DonatePackages = () => {
       icon: "👑",
       privileges: [],
     },
+    {
+      name: "Sponsor",
+      price: "2999₽",
+      color: "from-amber-500 to-yellow-600",
+      icon: "⭐",
+      privileges: [],
+    },
   ];
 
   return (
