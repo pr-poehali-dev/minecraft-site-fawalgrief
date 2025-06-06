@@ -14,6 +14,13 @@ const DonatePackages = () => {
       icon: "🐅",
       privileges: [],
     },
+    {
+      name: "Bunny",
+      price: "19₽",
+      color: "from-pink-500 to-purple-500",
+      icon: "🐰",
+      privileges: [],
+    },
   ];
 
   return (
@@ -56,7 +63,7 @@ const DonatePackages = () => {
                   ))}
                 </ul>
 
-                <button className="w-full mt-6 bg-gradient-to-r from-green-500 to-green-600 text-white py-3 px-6 rounded-lg font-bold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105">
+                <button className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-3 px-6 rounded-lg font-bold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105">
                   💳 Купить {pkg.name}
                 </button>
               </div>
